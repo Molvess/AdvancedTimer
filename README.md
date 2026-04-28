@@ -26,4 +26,4 @@ Android için geliştirilmiş, temiz arayüze ve yüksek hassasiyete sahip minim
 ### Geliştiriciler İçin:
 1. Bu repoyu bilgisayarınıza klonlayın:
    ```bash
-   git clone [https://github.com/Molvess/AdvancedTimer.git](https://github.com/Molvess/AdvancedTimer.git)
+   git clone https://github.com/Molvess/AdvancedTimer.git
