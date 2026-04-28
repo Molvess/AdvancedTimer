@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:id="@+id/nav_salise" android:title="Salise (00:00:00.00)" />
+    <item android:id="@+id/nav_saniye" android:title="Saniye (00:00:00)" />
+    <item android:id="@+id/nav_dakika" android:title="Dakika (00:00)" />
+    <item android:id="@+id/nav_saat" android:title="Saat (00:00)" />
+    <item android:id="@+id/nav_gun" android:title="Gün" />
+</menu>
